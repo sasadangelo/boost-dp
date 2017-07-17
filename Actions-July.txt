@@ -1,0 +1,15 @@
+1. Controllare strani ads
+2. Commenti non più visibili
+3. Presenza di link rotti
+4. Ottimizzare la size di tutte le immagini del sito web
+5. Create Statistic Spreadsheet with the following entries:	->	DONE
+	* Impressions
+	* Clicks and CTR
+	* Session (Total, Search, Direct and Referral)
+	* Users (Total, Search, Direct and Referral)
+	* Pages
+	* Page/Session
+	* Bounce Rate
+6. Create Spreadsheet with Pages with CTR lower than 4%		->	DONE
+7. Create Spreadsheet with Query with CTR lower than 5%		->	DONE
+8. Create Spreadsheet with Position lower than 10		->	DONE
