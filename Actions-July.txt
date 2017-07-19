@@ -1,12 +1,13 @@
 URGENT
 ------
-1.  Confrontare dp con installazione fresh per individuare malaware
-2.  Migliorare la string "Parla alla tua mente"
-3.  Controllare strani ads
-4.  Presenza di link rotti
-5.  Bottone Facebook su DP
-6.  Migliorare display ads
-7.  Ripristinare sito dei concorsi
+1. Ripristinare slidebar nella home
+2.  Confrontare dp con installazione fresh per individuare malaware
+3.  Migliorare la string "Parla alla tua mente"
+4.  Controllare strani ads
+5.  Presenza di link rotti
+6.  Bottone Facebook su DP
+7.  Migliorare display ads
+8.  Ripristinare sito dei concorsi
 
 IMPORTANT
 ---------
