@@ -1,6 +1,5 @@
 URGENT
 ------
-1. Ripristinare slidebar nella home
 2.  Confrontare dp con installazione fresh per individuare malaware
 3.  Migliorare la string "Parla alla tua mente"
 4.  Controllare strani ads
@@ -14,19 +13,21 @@ IMPORTANT
 1.  Ottimizzare la size di tutte le immagini del sito web
 2.  Rimuovere revisioni da wp_posts
 3.  Ottimizzare database di DP
-1.  Supporto https
-3.  Testare ripristino backup
-11. Migliorare snippet Google page <4%
-12. Categorizzare articoli delle serie
-13. Testare un plugin per sequenze di articoli
+4.  Supporto https
+5.  Testare ripristino backup
+6. Migliorare snippet Google page <4%
+7. Categorizzare articoli delle serie
+8. Testare un plugin per sequenze di articoli
+9. Valutare se conviene ancora avere le affiliazioni di Richard Robinson
 
 DONE
 ----
-1. Cambiare password
-2. Rimuovere temi non necessari
-3. Ripristino del backup
-4. Commenti non più visibili
-5. Create Statistic Spreadsheet with the following entries:
+1. Ripristinare slidebar nella home
+2. Cambiare password
+3. Rimuovere temi non necessari
+4. Ripristino del backup
+5. Commenti non più visibili
+6. Create Statistic Spreadsheet with the following entries:
 	* Impressions
 	* Clicks and CTR
 	* Session (Total, Search, Direct and Referral)
@@ -34,6 +35,6 @@ DONE
 	* Pages
 	* Page/Session
 	* Bounce Rate
-6. Create Spreadsheet with Pages with CTR lower than 4%
-7. Create Spreadsheet with Query with CTR lower than 5%
-8. Create Spreadsheet with Position lower than 10
+7. Create Spreadsheet with Pages with CTR lower than 4%
+8. Create Spreadsheet with Query with CTR lower than 5%
+9. Create Spreadsheet with Position lower than 10
