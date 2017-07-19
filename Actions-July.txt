@@ -1,8 +1,21 @@
-1. Controllare strani ads
-2. Commenti non più visibili
-3. Presenza di link rotti
-4. Ottimizzare la size di tutte le immagini del sito web
-5. Create Statistic Spreadsheet with the following entries:	->	DONE
+1.  Confrontare dp con installazione fresh per individuare malaware
+2.  Rimuovere temi non necessari
+3.  Testare ripristino backup
+4.  Cambiare password
+5.  Controllare strani ads
+6.  Presenza di link rotti
+7.  Ottimizzare la size di tutte le immagini del sito web
+8.  Rimuovere revisioni da wp_posts
+9.  Ottimizzare database di DP
+10.  Bottone Facebook su DP
+11.  Migliorare la string "Parla alla tua mente"
+12. Migliorare snippet Google page <4%
+13. Categorizzare articoli delle serie
+14. Testare un plugin per sequenze di articoli
+15. Ripristinare sito dei concorsi
+16. Ripristino del backup					->	DONE
+17. Commenti non più visibili                                   ->      DONE
+18. Create Statistic Spreadsheet with the following entries:	->	DONE
 	* Impressions
 	* Clicks and CTR
 	* Session (Total, Search, Direct and Referral)
@@ -10,6 +23,6 @@
 	* Pages
 	* Page/Session
 	* Bounce Rate
-6. Create Spreadsheet with Pages with CTR lower than 4%		->	DONE
-7. Create Spreadsheet with Query with CTR lower than 5%		->	DONE
-8. Create Spreadsheet with Position lower than 10		->	DONE
+19. Create Spreadsheet with Pages with CTR lower than 4%	->	DONE
+20. Create Spreadsheet with Query with CTR lower than 5%	->	DONE
+21. Create Spreadsheet with Position lower than 10		->	DONE
