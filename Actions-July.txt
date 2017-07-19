@@ -1,5 +1,5 @@
+1.  Supporto https
 1.  Confrontare dp con installazione fresh per individuare malaware
-2.  Rimuovere temi non necessari
 3.  Testare ripristino backup
 4.  Cambiare password
 5.  Controllare strani ads
@@ -7,14 +7,15 @@
 7.  Ottimizzare la size di tutte le immagini del sito web
 8.  Rimuovere revisioni da wp_posts
 9.  Ottimizzare database di DP
-10.  Bottone Facebook su DP
-11.  Migliorare la string "Parla alla tua mente"
+10. Bottone Facebook su DP
+11. Migliorare la string "Parla alla tua mente"
 12. Migliorare snippet Google page <4%
 13. Categorizzare articoli delle serie
 14. Testare un plugin per sequenze di articoli
 15. Ripristinare sito dei concorsi
+15. Rimuovere temi non necessari				->	DONE
 16. Ripristino del backup					->	DONE
-17. Commenti non più visibili                                   ->      DONE
+17. Commenti non piÃ¹ visibili                                   ->      DONE
 18. Create Statistic Spreadsheet with the following entries:	->	DONE
 	* Impressions
 	* Clicks and CTR
