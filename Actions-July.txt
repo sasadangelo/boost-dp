@@ -1,22 +1,31 @@
-1.  Supporto https
+URGENT
+------
 1.  Confrontare dp con installazione fresh per individuare malaware
+2.  Migliorare la string "Parla alla tua mente"
+3.  Controllare strani ads
+4.  Presenza di link rotti
+5.  Bottone Facebook su DP
+6.  Migliorare display ads
+7.  Ripristinare sito dei concorsi
+
+IMPORTANT
+---------
+1.  Ottimizzare la size di tutte le immagini del sito web
+2.  Rimuovere revisioni da wp_posts
+3.  Ottimizzare database di DP
+1.  Supporto https
 3.  Testare ripristino backup
-4.  Cambiare password
-5.  Controllare strani ads
-6.  Presenza di link rotti
-7.  Ottimizzare la size di tutte le immagini del sito web
-8.  Rimuovere revisioni da wp_posts
-9.  Ottimizzare database di DP
-10. Bottone Facebook su DP
-11. Migliorare la string "Parla alla tua mente"
-12. Migliorare snippet Google page <4%
-13. Categorizzare articoli delle serie
-14. Testare un plugin per sequenze di articoli
-15. Ripristinare sito dei concorsi
-15. Rimuovere temi non necessari				->	DONE
-16. Ripristino del backup					->	DONE
-17. Commenti non più visibili                                   ->      DONE
-18. Create Statistic Spreadsheet with the following entries:	->	DONE
+11. Migliorare snippet Google page <4%
+12. Categorizzare articoli delle serie
+13. Testare un plugin per sequenze di articoli
+
+DONE
+----
+1. Cambiare password
+2. Rimuovere temi non necessari
+3. Ripristino del backup
+4. Commenti non più visibili
+5. Create Statistic Spreadsheet with the following entries:
 	* Impressions
 	* Clicks and CTR
 	* Session (Total, Search, Direct and Referral)
@@ -24,6 +33,6 @@
 	* Pages
 	* Page/Session
 	* Bounce Rate
-19. Create Spreadsheet with Pages with CTR lower than 4%	->	DONE
-20. Create Spreadsheet with Query with CTR lower than 5%	->	DONE
-21. Create Spreadsheet with Position lower than 10		->	DONE
+6. Create Spreadsheet with Pages with CTR lower than 4%
+7. Create Spreadsheet with Query with CTR lower than 5%
+8. Create Spreadsheet with Position lower than 10
