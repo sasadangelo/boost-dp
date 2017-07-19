@@ -23,12 +23,12 @@ IMPORTANT
 
 DONE
 ----
-1. Ripristinare slidebar nella home
-2. Cambiare password
-3. Rimuovere temi non necessari
-4. Ripristino del backup
-5. Commenti non più visibili
-6. Create Statistic Spreadsheet with the following entries:
+1.  Ripristinare slidebar nella home
+2.  Cambiare password
+3.  Rimuovere temi non necessari
+4.  Ripristino del backup
+5.  Commenti non più visibili
+6.  Create Statistic Spreadsheet with the following entries:
 	* Impressions
 	* Clicks and CTR
 	* Session (Total, Search, Direct and Referral)
@@ -36,6 +36,7 @@ DONE
 	* Pages
 	* Page/Session
 	* Bounce Rate
-7. Create Spreadsheet with Pages with CTR lower than 4%
-8. Create Spreadsheet with Query with CTR lower than 5%
-9. Create Spreadsheet with Position lower than 10
+7.  Create Spreadsheet with Pages with CTR lower than 4%
+8.  Create Spreadsheet with Query with CTR lower than 5%
+9.  Create Spreadsheet with Position lower than 10
+10. Rimuovere plugin wp_polls
