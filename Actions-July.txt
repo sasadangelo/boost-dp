@@ -15,10 +15,11 @@ IMPORTANT
 3.  Ottimizzare database di DP
 4.  Supporto https
 5.  Testare ripristino backup
-6. Migliorare snippet Google page <4%
-7. Categorizzare articoli delle serie
-8. Testare un plugin per sequenze di articoli
-9. Valutare se conviene ancora avere le affiliazioni di Richard Robinson
+6.  Migliorare snippet Google page <4%
+7.  Categorizzare articoli delle serie
+8.  Testare un plugin per sequenze di articoli
+9.  Valutare se conviene ancora avere le affiliazioni di Richard Robinson
+10. Mettere un modulo di contatto.
 
 DONE
 ----
