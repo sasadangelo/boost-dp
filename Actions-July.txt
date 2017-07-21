@@ -1,19 +1,19 @@
 URGENT
 ------
-2.  Confrontare dp con installazione fresh per individuare malaware
-3.  Migliorare la string "Parla alla tua mente"
-4.  Controllare strani ads
-5.  Presenza di link rotti
-6.  Bottone Facebook su DP
-7.  Migliorare display ads
-8.  Ripristinare sito dei concorsi
+1.  Confrontare dp con installazione fresh per individuare malaware
+2.  Migliorare display ads
+3.  Presenza di link rotti
+4.  Punto vicino slider
+5.  Migliorare la string "Parla alla tua mente"
+6.  Controllare strani ads
+7.  Ripristinare sito dei concorsi
 
 IMPORTANT
 ---------
-1.  Ottimizzare la size di tutte le immagini del sito web
-2.  Rimuovere revisioni da wp_posts
-3.  Ottimizzare database di DP
-4.  Supporto https
+1.  Supporto https
+2.  Ottimizzare la size di tutte le immagini del sito web
+3.  Rimuovere revisioni da wp_posts
+4.  Ottimizzare database di DP
 5.  Testare ripristino backup
 6.  Migliorare snippet Google page <4%
 7.  Categorizzare articoli delle serie
@@ -40,3 +40,5 @@ DONE
 8.  Create Spreadsheet with Query with CTR lower than 5%
 9.  Create Spreadsheet with Position lower than 10
 10. Rimuovere plugin wp_polls
+11. Botton Facebook su DP
+12. Rimuovere plugin Broken Link Checker
