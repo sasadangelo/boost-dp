@@ -1,25 +1,30 @@
 URGENT
 ------
-1.  Confrontare dp con installazione fresh per individuare malaware
-2.  Migliorare display ads
-3.  Presenza di link rotti
-4.  Punto vicino slider
-5.  Migliorare la string "Parla alla tua mente"
-6.  Controllare strani ads
-7.  Ripristinare sito dei concorsi
+1. Confrontare dp con installazione fresh per individuare malaware.
+2. Migliorare display ads.
+3. Presenza di link rotti.
+4. Punto vicino slider.
+5. Migliorare la string "Parla alla tua mente".
+6. Controllare strani ads.
+7. Ripristinare sito dei concorsi.
+8. Rimuovere Newsletter dal fondo dei posts.
 
 IMPORTANT
 ---------
-1.  Supporto https
-2.  Ottimizzare la size di tutte le immagini del sito web
-3.  Rimuovere revisioni da wp_posts
-4.  Ottimizzare database di DP
-5.  Testare ripristino backup
-6.  Migliorare snippet Google page <4%
-7.  Categorizzare articoli delle serie
-8.  Testare un plugin per sequenze di articoli
-9.  Valutare se conviene ancora avere le affiliazioni di Richard Robinson
+1.  Supporto https.
+2.  Ottimizzare la size di tutte le immagini del sito web.
+3.  Rimuovere revisioni da wp_posts.
+4.  Ottimizzare database di DP.
+5.  Testare ripristino backup.
+6.  Migliorare snippet Google page <4%.
+7.  Categorizzare articoli delle serie.
+8.  Testare un plugin per sequenze di articoli.
+9.  Valutare se conviene ancora avere le affiliazioni di Richard Robinson.
 10. Mettere un modulo di contatto.
+
+IMPROVEMENT FOR FUTURE
+----------------------
+1. Update focus theme to last version.
 
 DONE
 ----
@@ -42,3 +47,6 @@ DONE
 10. Rimuovere plugin wp_polls
 11. Botton Facebook su DP
 12. Rimuovere plugin Broken Link Checker
+13. Togliere tutti i servizi di ping tranne quello di default.
+14. Rimuovere No Ping Wait
+15. Rimuovere folder dei dipinti di Walter.
