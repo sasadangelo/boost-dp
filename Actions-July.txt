@@ -1,10 +1,9 @@
 URGENT
 ------
-1. Presenza di link rotti.
-2. Punto vicino slider.
-3. Migliorare la string "Parla alla tua mente".
-4. Ripristinare sito dei concorsi.
-5. Migliorare display ads
+1. Punto vicino slider.
+2. Migliorare la string "Parla alla tua mente".
+3. Ripristinare sito dei concorsi.
+4. Migliorare display ads
 
 IMPORTANT
 ---------
@@ -17,11 +16,16 @@ IMPORTANT
 7.  Categorizzare articoli delle serie.
 8.  Testare un plugin per sequenze di articoli.
 9.  Valutare se conviene ancora avere le affiliazioni di Richard Robinson.
-10. Mettere un modulo di contatto.
+10. Valutare se conviene avere le affiliazioni Amazon.
+11. Mettere un modulo di contatto.
 
 IMPROVEMENT FOR FUTURE
 ----------------------
 1. Update focus theme to last version.
+
+NICE TO HAVE
+------------
+1. Remove all links redirects.
 
 DONE
 ----
@@ -49,3 +53,4 @@ DONE
 15. Rimuovere folder dei dipinti di Walter.
 16. Confrontare dp con installazione fresh per individuare malaware.
 17. Rimuovere Newsletter dal fondo dei posts.
+18. Rimuovere link rotti.
