@@ -1,13 +1,10 @@
 URGENT
 ------
-1. Confrontare dp con installazione fresh per individuare malaware.
-2. Migliorare display ads.
-3. Presenza di link rotti.
-4. Punto vicino slider.
-5. Migliorare la string "Parla alla tua mente".
-6. Controllare strani ads.
-7. Ripristinare sito dei concorsi.
-8. Rimuovere Newsletter dal fondo dei posts.
+1. Presenza di link rotti.
+2. Punto vicino slider.
+3. Migliorare la string "Parla alla tua mente".
+4. Ripristinare sito dei concorsi.
+5. Migliorare display ads
 
 IMPORTANT
 ---------
@@ -50,3 +47,5 @@ DONE
 13. Togliere tutti i servizi di ping tranne quello di default.
 14. Rimuovere No Ping Wait
 15. Rimuovere folder dei dipinti di Walter.
+16. Confrontare dp con installazione fresh per individuare malaware.
+17. Rimuovere Newsletter dal fondo dei posts.

@@ -1,0 +1,25 @@
+<!-- google_ad_section_start(weight=ignore) -->
+<div style="float:left; margin-top: 10px; margin-bottom: 10px;">
+<div class="widget enews-widget">
+    <div class="widget-wrap">
+        <div class="enews">
+            <h4 class="widgettitle">Iscriviti alla Newsletter</h4>
+            <div style="float: left; width: 50%;">
+                <img title="Dipingere con la tecnica dei Fiamminghi" src="/wp-content/uploads/ebook-cover-3D-small.jpg" alt="Dipingere con la tecnica dei Fiamminghi" width="225" height="252"/>
+            </div>
+            <div style="float: right; text-align: justify; width: 50%;">
+                Iscriviti alla Newsletter riceverai gratis l'ebook <b>Dipingere con la tecnica dei Fiamminghi</b>
+                <br/><br/>
+                <script type="text/javascript" src="http://forms.aweber.com/form/33/1736819733.js"></script>
+            </div>
+        </div>
+        <div  style="text-align: center;">
+            <a href="http://www.disegnoepittura.it/ebook-squeeze-page/index.html">Clicca qui per ulteriori informazioni ...</a>
+        </div>
+    </div>
+</div>
+</div>
+<!-- google_ad_section_end -->
+<br style="clear: left;" />
+<!-- google_ad_section_start(weight=ignore) -->
+
