@@ -1,7 +1,6 @@
 URGENT
 ------
 1. Migliorare display link ads.
-2. Punto vicino slider.
 3. Ripristinare sito dei concorsi.
 
 IMPORTANT
@@ -52,3 +51,4 @@ DONE July
 18. Rimuovere link rotti.
 19. Migliorare la stringa "Parla alla tua mente" (cambiato traduzione del
     plugin genesis-translation con loco translate).
+20. Rimuovere punto vicino slider.
