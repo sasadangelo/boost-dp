@@ -1,26 +1,28 @@
 URGENT
 ------
 1. Migliorare display link ads.
-3. Ripristinare sito dei concorsi.
 
 IMPORTANT
 ---------
-1.  Supporto https.
-2.  Ottimizzare la size di tutte le immagini del sito web.
-3.  Rimuovere revisioni da wp_posts.
-4.  Ottimizzare database di DP.
-5.  Testare ripristino backup.
-6.  Migliorare snippet Google page <4%.
-7.  Categorizzare articoli delle serie.
-8.  Testare un plugin per sequenze di articoli.
-9.  Valutare se conviene ancora avere le affiliazioni di Richard Robinson.
-10. Valutare se conviene avere le affiliazioni Amazon.
-11. Mettere un modulo di contatto.
-12. Remove all links redirects.
+1.  Controllare quali sono le immagini non indicizzate da Google.
+2.  Supporto https.
+3.  Ottimizzare la size di tutte le immagini del sito web.
+4.  Rimuovere revisioni da wp_posts.
+5.  Ottimizzare database di DP.
+6.  Testare ripristino backup.
+7.  Migliorare snippet Google page <4%.
+8.  Categorizzare articoli delle serie.
+9.  Testare un plugin per sequenze di articoli.
+10. Valutare se conviene ancora avere le affiliazioni di Richard Robinson.
+11. Valutare se conviene avere le affiliazioni Amazon.
+12. Mettere un modulo di contatto.
+13. Remove all links redirects.
 
 IMPROVEMENT FOR FUTURE
 ----------------------
 1. Update focus theme to last version.
+2. On Concorsi website GAllery does not fill partially the screen.
+3. Far funzionare concorsi locale.
 
 DONE July
 ---------
@@ -52,3 +54,4 @@ DONE July
 19. Migliorare la stringa "Parla alla tua mente" (cambiato traduzione del
     plugin genesis-translation con loco translate).
 20. Rimuovere punto vicino slider.
+21. Ripristinare sito dei concorsi.
