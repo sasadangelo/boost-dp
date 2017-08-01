@@ -1,7 +1,3 @@
-URGENT
-------
-1. Migliorare display link ads.
-
 IMPORTANT
 ---------
 1.  Controllare quali sono le immagini non indicizzate da Google.
@@ -17,11 +13,12 @@ IMPORTANT
 11. Valutare se conviene avere le affiliazioni Amazon.
 12. Mettere un modulo di contatto.
 13. Remove all links redirects.
+14. Migliorare display link ads.
 
 IMPROVEMENT FOR FUTURE
 ----------------------
 1. Update focus theme to last version.
-2. On Concorsi website GAllery does not fill partially the screen.
+2. On Concorsi website Gallery does not fill partially the screen.
 3. Far funzionare concorsi locale.
 
 DONE July
