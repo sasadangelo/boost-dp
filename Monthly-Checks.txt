@@ -1,0 +1,3 @@
+1. Update Statistics.
+2. Check Pages/Query Lower CTR.
+3. Check Pages with High Bounce Rate.
