@@ -3,16 +3,15 @@ IMPORTANT
 1.  Rivedere Galleria
 2.  Controllare quali sono le immagini non indicizzate da Google.
 3.  Supporto https.
-4.  Ottimizzare la size di tutte le immagini del sito web.
-5.  Testare ripristino backup.
-6.  Migliorare snippet Google page <4%.
-7.  Categorizzare articoli delle serie.
-8.  Testare un plugin per sequenze di articoli.
-9.  Mettere un modulo di contatto.
-10. Remove all links redirects.
-11. Migliorare display link ads.
-12. Check external link
-13. Check inbound link (disarow)
+4.  Testare ripristino backup.
+5.  Migliorare snippet Google page <4%.
+6.  Categorizzare articoli delle serie.
+7.  Testare un plugin per sequenze di articoli.
+8.  Mettere un modulo di contatto.
+9. Remove all links redirects.
+10. Migliorare display link ads.
+11. Check external link
+12. Check inbound link (disarow)
 
 IMPROVEMENT FOR FUTURE
 ----------------------
@@ -28,6 +27,7 @@ DONE August
 4. Valutare se conviene avere le affiliazioni Amazon (SI CONVIENE).
 5. Valutare se conviene ancora avere le aff. Richard Robinson (NO NON CONVIENE).
 6. Rimossi annunci Richard Robinson.
+7. Ottimizzare la size di tutte le immagini del sito web.
 
 DONE July
 ---------
