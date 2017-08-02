@@ -8,11 +8,11 @@ IMPORTANT
 6.  Migliorare snippet Google page <4%.
 7.  Categorizzare articoli delle serie.
 8.  Testare un plugin per sequenze di articoli.
-9.  Valutare se conviene ancora avere le affiliazioni di Richard Robinson.
-10. Valutare se conviene avere le affiliazioni Amazon.
-11. Mettere un modulo di contatto.
-12. Remove all links redirects.
-13. Migliorare display link ads.
+9.  Mettere un modulo di contatto.
+10. Remove all links redirects.
+11. Migliorare display link ads.
+12. Check external link
+13. Check inbound link (disarow)
 
 IMPROVEMENT FOR FUTURE
 ----------------------
@@ -25,6 +25,9 @@ DONE August
 1. Rimuovere revisioni da wp_posts.
 2. Ottimizzare database di DP.
 3. Rimuovere wp_redirection* tables from db.
+4. Valutare se conviene avere le affiliazioni Amazon (SI CONVIENE).
+5. Valutare se conviene ancora avere le aff. Richard Robinson (NO NON CONVIENE).
+6. Rimossi annunci Richard Robinson.
 
 DONE July
 ---------
