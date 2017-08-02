@@ -8,7 +8,7 @@ IMPORTANT
 6.  Migliorare snippet Google page <4%.
 7.  Categorizzare articoli delle serie.
 8.  Testare un plugin per sequenze di articoli.
-9. Valutare se conviene ancora avere le affiliazioni di Richard Robinson.
+9.  Valutare se conviene ancora avere le affiliazioni di Richard Robinson.
 10. Valutare se conviene avere le affiliazioni Amazon.
 11. Mettere un modulo di contatto.
 12. Remove all links redirects.
