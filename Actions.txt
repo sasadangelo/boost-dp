@@ -7,11 +7,9 @@ IMPORTANT
 5.  Migliorare snippet Google page <4%.
 6.  Categorizzare articoli delle serie.
 7.  Testare un plugin per sequenze di articoli.
-8.  Mettere un modulo di contatto.
-9. Remove all links redirects.
-10. Migliorare display link ads.
-11. Check external link
-12. Check inbound link (disarow)
+8.  Remove all links redirects.
+9.  Check external link
+10. Check inbound link (disarow)
 
 IMPROVEMENT FOR FUTURE
 ----------------------
@@ -28,6 +26,8 @@ DONE August
 5. Valutare se conviene ancora avere le aff. Richard Robinson (NO NON CONVIENE).
 6. Rimossi annunci Richard Robinson.
 7. Ottimizzare la size di tutte le immagini del sito web.
+8. Migliorare display link ads.
+9. Mettere un modulo di contatto.
 
 DONE July
 ---------
