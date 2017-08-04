@@ -10,6 +10,8 @@ IMPORTANT
 8.  Remove all links redirects.
 9.  Check external link
 10. Check inbound link (disarow)
+11. Tradurre Continue Reading
+12. Rimuovere tutti gli articoli privati.
 
 IMPROVEMENT FOR FUTURE
 ----------------------
