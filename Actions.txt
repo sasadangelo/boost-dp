@@ -2,7 +2,6 @@ IMPORTANT
 ---------
 1.  Rivedere Galleria
 2.  Controllare quali sono le immagini non indicizzate da Google.
-3.  Supporto https.
 4.  Testare ripristino backup.
 5.  Migliorare snippet Google page <4%.
 6.  Categorizzare articoli delle serie.
@@ -12,6 +11,10 @@ IMPORTANT
 10. Check inbound link (disarow)
 11. Tradurre Continue Reading
 12. Rimuovere tutti gli articoli privati.
+13. Rimuovere affiliazioni Mondo Artista.
+14. Immagini in quest'articolo non sono ok.
+https://www.disegnoepittura.it/tavolozza-colori-ritratto-john-howard-sanden/
+15. Ci sono campi customs che sembrano obsoleti.
 
 IMPROVEMENT FOR FUTURE
 ----------------------
@@ -21,15 +24,16 @@ IMPROVEMENT FOR FUTURE
 
 DONE August
 -----------
-1. Rimuovere revisioni da wp_posts.
-2. Ottimizzare database di DP.
-3. Rimuovere wp_redirection* tables from db.
-4. Valutare se conviene avere le affiliazioni Amazon (SI CONVIENE).
-5. Valutare se conviene ancora avere le aff. Richard Robinson (NO NON CONVIENE).
-6. Rimossi annunci Richard Robinson.
-7. Ottimizzare la size di tutte le immagini del sito web.
-8. Migliorare display link ads.
-9. Mettere un modulo di contatto.
+1.  Rimuovere revisioni da wp_posts.
+2.  Ottimizzare database di DP.
+3.  Rimuovere wp_redirection* tables from db.
+4.  Valutare se conviene avere le affiliazioni Amazon (SI CONVIENE).
+5.  Valutare se conviene avere le aff. Richard Robinson (NO NON CONVIENE).
+6.  Rimossi annunci Richard Robinson.
+7.  Ottimizzare la size di tutte le immagini del sito web.
+8.  Migliorare display link ads.
+9.  Mettere un modulo di contatto.
+10. Sito in https
 
 DONE July
 ---------
