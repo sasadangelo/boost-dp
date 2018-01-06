@@ -1,26 +1,39 @@
 IMPORTANT
 ---------
-1.  Rivedere Galleria
-2.  Controllare quali sono le immagini non indicizzate da Google.
-4.  Testare ripristino backup.
-5.  Migliorare snippet Google page <4%.
-6.  Categorizzare articoli delle serie.
-7.  Testare un plugin per sequenze di articoli.
-8.  Remove all links redirects.
-9.  Check external link
-10. Check inbound link (disarow)
-11. Tradurre Continue Reading
-12. Rimuovere tutti gli articoli privati.
-13. Rimuovere affiliazioni Mondo Artista.
-14. Immagini in quest'articolo non sono ok.
-https://www.disegnoepittura.it/tavolozza-colori-ritratto-john-howard-sanden/
+1.  Cercare Newsletter Free
+2.  Pubblicare articolo imprimitura e rimuovere sistemare i vecchi sul tema.
+3.  Rimuovere affiliazioni Mondo Artista.
+4.  Rivedere Galleria
+5.  Rimuovere tutti gli articoli privati.
+6.  Immagini in quest'articolo non sono ok.
+	https://www.disegnoepittura.it/tavolozza-colori-ritratto-john-howard-sanden/
+7.  Controllare quali sono le immagini non indicizzate da Google.
+8.  Migliorare snippet Google page <4%.
+9.  Testare ripristino backup.
+10. Categorizzare articoli delle serie.
+11. Testare un plugin per sequenze di articoli.
+12. Remove all links redirects.
+13. Check external link
+14. Check inbound link (disarow)
 15. Ci sono campi customs che sembrano obsoleti.
+16. Redirect to home page the page ebook-squeeze-page
+17. Con la migrazione a https ho perso i count di tutti gli sharing facebook
 
 IMPROVEMENT FOR FUTURE
 ----------------------
 1. Update focus theme to last version.
 2. On Concorsi website Gallery does not fill partially the screen.
 3. Far funzionare concorsi locale.
+
+DONE January
+------------
+1. Modified WP-Print Plugin to show bullets and improve header.
+2. Remove Google+ and Twitter buttons dagli articoli
+
+DONE December
+-----------
+1. Sistemare il riquadro degli ebook.
+2. Pubblicato articolo "Come montare tela su telaio".
 
 DONE August
 -----------
@@ -34,6 +47,7 @@ DONE August
 8.  Migliorare display link ads.
 9.  Mettere un modulo di contatto.
 10. Sito in https
+11. Tradurre "Continue Reading"
 
 DONE July
 ---------
