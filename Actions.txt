@@ -28,7 +28,12 @@ IMPROVEMENT FOR FUTURE
 DONE January
 ------------
 1. Modified WP-Print Plugin to show bullets and improve header.
-2. Remove Google+ and Twitter buttons dagli articoli
+2. Remove Google+ and Twitter buttons dagli articoli.
+3. Pubblicato articolo "Come fare l'imprimitura"
+4. Rimossi gli articoli (rendendoli privati) e facendo redirect 301 al nuovo:
+	https://www.disegnoepittura.it/corso-pittura-olio-artisti-principianti-7-come-eseguire-imprimitura-campitura-tela/
+	https://www.disegnoepittura.it/preparare-tela-imprimitura-gesso-acrilico/
+	https://www.disegnoepittura.it/imprimitura-tavola-gesso-colla-cennino-cennini/
 
 DONE December
 -----------
