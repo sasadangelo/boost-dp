@@ -1,23 +1,23 @@
 IMPORTANT
 ---------
-1.  Cercare Newsletter Free
-2.  Pubblicare articolo imprimitura e rimuovere sistemare i vecchi sul tema.
-3.  Rimuovere affiliazioni Mondo Artista.
-4.  Rivedere Galleria
-5.  Rimuovere tutti gli articoli privati.
-6.  Immagini in quest'articolo non sono ok.
+1.  Sistemare articolo per trasferire disegno su tela e sistemare quelli vecchi correlati.
+1.  Installare Newsletter Free
+2.  Rimuovere affiliazioni Mondo Artista.
+3.  Rivedere Galleria
+4.  Rimuovere gli articoli privati non interessanti.
+5.  Immagini in quest'articolo non sono ok.
 	https://www.disegnoepittura.it/tavolozza-colori-ritratto-john-howard-sanden/
-7.  Controllare quali sono le immagini non indicizzate da Google.
-8.  Migliorare snippet Google page <4%.
-9.  Testare ripristino backup.
-10. Categorizzare articoli delle serie.
-11. Testare un plugin per sequenze di articoli.
-12. Remove all links redirects.
-13. Check external link
-14. Check inbound link (disarow)
-15. Ci sono campi customs che sembrano obsoleti.
-16. Redirect to home page the page ebook-squeeze-page
-17. Con la migrazione a https ho perso i count di tutti gli sharing facebook
+6.  Controllare quali sono le immagini non indicizzate da Google.
+7.  Migliorare snippet Google page <4%.
+8.  Testare ripristino backup.
+9.  Categorizzare articoli delle serie.
+10. Testare un plugin per sequenze di articoli.
+11. Remove all links redirects.
+12. Check external link
+13. Check inbound link (disarow)
+14. Ci sono campi customs che sembrano obsoleti.
+15. Redirect to home page the page ebook-squeeze-page
+16. Con la migrazione a https ho perso i count di tutti gli sharing facebook
 
 IMPROVEMENT FOR FUTURE
 ----------------------
@@ -34,6 +34,7 @@ DONE January
 	https://www.disegnoepittura.it/corso-pittura-olio-artisti-principianti-7-come-eseguire-imprimitura-campitura-tela/
 	https://www.disegnoepittura.it/preparare-tela-imprimitura-gesso-acrilico/
 	https://www.disegnoepittura.it/imprimitura-tavola-gesso-colla-cennino-cennini/
+	https://www.disegnoepittura.it/imprimitura-gesso-bologna-colla-coniglio-dipingere-tela/
 
 DONE December
 -----------
