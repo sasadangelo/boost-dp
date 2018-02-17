@@ -1,6 +1,5 @@
 IMPORTANT
 ---------
-1.  Sistemare articolo per trasferire disegno su tela e sistemare quelli vecchi correlati.
 1.  Installare Newsletter Free
 2.  Rimuovere affiliazioni Mondo Artista.
 3.  Rivedere Galleria
@@ -25,6 +24,12 @@ IMPROVEMENT FOR FUTURE
 2. On Concorsi website Gallery does not fill partially the screen.
 3. Far funzionare concorsi locale.
 
+DONE February
+-------------
+1. Articolo: https://www.disegnoepittura.it/come-disegnare-soggetto-dipinto/
+2. Articolo: https://www.disegnoepittura.it/come-trasferire-un-disegno-sulla-tela-con-posterrazor/
+3. Rimozione pubblicità
+  
 DONE January
 ------------
 1. Modified WP-Print Plugin to show bullets and improve header.
