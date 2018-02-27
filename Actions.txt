@@ -26,9 +26,38 @@ IMPROVEMENT FOR FUTURE
 
 DONE February
 -------------
-1. Articolo: https://www.disegnoepittura.it/come-disegnare-soggetto-dipinto/
-2. Articolo: https://www.disegnoepittura.it/come-trasferire-un-disegno-sulla-tela-con-posterrazor/
-3. Rimozione pubblicità
+1. Articolo: https://www.disegnoepittura.it/tele-per-dipingere/
+1. Rimossi bottoni social: twitter e google+
+2. Articolo: https://www.disegnoepittura.it/come-fare-campitura-tela/
+3. Rimozione Articoli:
+   /campitura/
+   /campitura-pratica/
+4. Rimosso articoli:
+   https://www.disegnoepittura.it/mondo-artista/
+   https://www.disegnoepittura.it/nuovo-sito-web-disegno-pittura/
+   https://www.disegnoepittura.it/color2drop-drop2color/
+   https://www.disegnoepittura.it/crea-il-tuo-calendario-artistico/
+   https://www.disegnoepittura.it/lartista-dellanno-2013-2/
+   https://www.disegnoepittura.it/vota-artista-anno-2013/
+   https://www.disegnoepittura.it/lartista-dellanno-2013/
+   https://www.disegnoepittura.it/olio-nero/
+   https://www.disegnoepittura.it/3-vincitori-concorso-pittura/
+   https://www.disegnoepittura.it/finalisti-concorso-pittura-online/
+   https://www.disegnoepittura.it/come-partecipare-2-concorso-di-pittura-online-di-disegno-pittura/
+   https://www.disegnoepittura.it/concorso-di-pittura-secondo/
+   https://www.disegnoepittura.it/campitura-pratica/
+   https://www.disegnoepittura.it/goonart/
+   https://www.disegnoepittura.it/come-organizzare-concorso-dpittura-online/
+   https://www.disegnoepittura.it/quando-dipinto-considerare-finito/
+   https://www.disegnoepittura.it/nuovi-premi-primo-concorso-pittura-online
+   https://www.disegnoepittura.it/modifiche-regolamento-concorso-pittura/
+   https://www.disegnoepittura.it/8-principi-blog-arte/
+   altri
+5. Articolo: https://www.disegnoepittura.it/come-disegnare-soggetto-dipinto/
+6. Articolo: https://www.disegnoepittura.it/come-trasferire-un-disegno-sulla-tela-con-posterrazor/
+7. Rimozione pubblicità
+8. Modifica Privacy Policy
+9. Rimozioni Articoli Adsense
   
 DONE January
 ------------
